@@ -23,3 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 src/mol-sg-families-prod-firebase-adminsdk-yltyq-8a3fb34815.json
+/public

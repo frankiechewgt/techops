@@ -1,0 +1,15 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.other-stats, .activeUsers {
+    background-color: #2196F3;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    font-size: 26px;
+    text-align: center;
+    padding:30px;
+}
+.activeUsers{
+    grid-column: 2 / 4;
+    background-color: #2196F3;
+}
